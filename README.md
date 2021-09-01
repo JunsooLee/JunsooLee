@@ -3,7 +3,9 @@
 
 
 ### :muscle: Skills
-<b>Platforms & Languages<br/>
+<b>Platforms & Languages<br/><br />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <!--
 **JunsooLee/JunsooLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
