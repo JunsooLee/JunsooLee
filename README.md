@@ -9,10 +9,18 @@
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunsooLee)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **JunsooLee/JunsooLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+skills icon: https://simpleicons.org/?q=cv
+emoji: https://www.webfx.com/tools/emoji-cheat-sheet/
+ex: http://blog.cowkite.com/blog/2102241544/
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
