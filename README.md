@@ -2,7 +2,7 @@
 🔭 I'm currently working on...<br/>
 🌱 I’m currently learning Deep Learning development with PyTorch<br/>
 
-## :muscle: Skills
+### :muscle: Skills
 <b>Platforms & Languages<br/><br />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
