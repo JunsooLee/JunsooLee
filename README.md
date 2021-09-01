@@ -9,7 +9,7 @@
 
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 
 ### :bar_chart: Statistics
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunsooLee&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
