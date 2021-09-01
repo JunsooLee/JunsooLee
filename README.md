@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<a href="https://github.com/JunsooLee/JunsooLee" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <!--
 **JunsooLee/JunsooLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
