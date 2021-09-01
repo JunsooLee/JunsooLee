@@ -1,4 +1,4 @@
-👋 Hi there! I'm Begginer of AI Engineer in BoostCamp 2nd.<br />
+👋 Hi there! I'm Begginer of AI Engineer in BoostCamp 2nd. :bulb:<br />
 Now I'm interested in both CV and NLP. Maybe my repository will be filled with NLP projects. <br />
 But I will also study CV and do projects in Dacon or Kaggle.<br/><br/>
 
