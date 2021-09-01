@@ -1,10 +1,9 @@
 👋 Hi there! I'm Begginer of AI Engineer in BoostCamp 2nd. :bulb:<br />
-Now I'm interested in both CV and NLP. Maybe my repository will be filled with NLP projects. <br />
-But I will also study CV and do projects in Dacon or Kaggle.<br/><br/>
+Now I'm interested in both CV and NLP. <br /><br />
 
 
-### :computer:Stack:computer:
-Techs that I've used at least once.<br/>
+### :muscle: Skills
+<b>Platforms & Languages<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <!--
 **JunsooLee/JunsooLee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
