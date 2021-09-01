@@ -1,5 +1,5 @@
-👋 Hi there! I'm Begginer of AI Engineer in BoostCamp 2nd.
-🔭 I'm currently working on...
+👋 Hi there! I'm Begginer of AI Engineer in BoostCamp 2nd.<br/>
+🔭 I'm currently working on...<br/>
 🌱 I’m currently learning Deep Learning development with PyTorch
 
 
