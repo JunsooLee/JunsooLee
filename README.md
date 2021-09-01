@@ -1,5 +1,6 @@
-👋 Hi there! I'm Begginer of AI Engineer in BoostCamp 2nd.<br />
-:bulb: Now I'm interested in both CV and NLP. <br /><br />
+👋 Hi there! I'm Begginer of AI Engineer in BoostCamp 2nd.
+🔭 I'm currently working on...
+🌱 I’m currently learning Deep Learning development with PyTorch
 
 
 ### :muscle: Skills
